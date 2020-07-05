@@ -4,7 +4,7 @@ Program for downloading chronic fatigue syndrome data.
 
 ## Get
 
-[Download](./).
+Download this.
 
 ## Use
 
