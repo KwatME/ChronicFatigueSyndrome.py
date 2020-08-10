@@ -8,4 +8,4 @@ Download this.
 
 ## Use
 
-See [notebook](notebook).
+See [code](code).
