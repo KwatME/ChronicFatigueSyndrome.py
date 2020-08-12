@@ -1,3 +1,4 @@
 {
-    "data_directory_path": "/media/kwat/CarrotCake/garden/data/chronic_fatigue_syndrome/"
+    "data_directory_path": "/media/kwat/CarrotCake/garden/data/chronic_fatigue_syndrome/",
+    "overwrite": false
 }
